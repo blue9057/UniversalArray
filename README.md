@@ -3,7 +3,8 @@ UniversalArray
 
 Universal Typed Array in C++
 
-Sample output
+Sample Output
+=============
 
 { i : 1 }
 { Ss : str }
